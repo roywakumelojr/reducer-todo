@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <h1>
+         Reducer Todo App 
+      </h1>
+      <div>
+        <div>
+          <form>
+            <input
+              name="todo"
+              value=""
+            />
+            <button>
+               Add Item 
+            </button>
+            <button>
+               Delete 
+            </button>
+          </form>
+        </div>
+        <div
+          class="todo"
+        >
+          <p
+            class="Items"
+          >
+            Learn about reducers
+          </p>
+        </div>
+      </div>
+    </header>
+  </div>
+</DocumentFragment>
+`;
