@@ -9,7 +9,7 @@ exports[`renders 1`] = `
       class="App-header"
     >
       <h1>
-         Reducer Todo App 
+         Reducer Todo App! 
       </h1>
       <div>
         <div>
